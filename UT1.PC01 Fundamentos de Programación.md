@@ -83,5 +83,14 @@ En esta actividad vamos a realizar una comparación entre Python y C, es por ell
 
 1.
 2. Las diferencias clave entre los lenguajes de programación Python y C, son las siguientes:
+*  C es un lenguaje de programación estructural, mientras que Python es un lenguaje de programación orientado a objetos.
+*  Python es un lenguaje de programación de propósito general, mientras que C se usa principalmente para aplicaciones relacionadas con hardware y código de      bajo nivel.
+*  C es un lenguaje compilado y Python es un lenguaje interpretado.
+*  La ejecución de código es más rápida en C que en Python.
+*  Python no admite la funcionalidad de puntero, pero los punteros están disponibles en C.
+*  C tiene una biblioteca limitada de funciones integradas, mientras que la de Python es más extensa.
+*  En C, es obligatorio declarar tipos de variables, pero esto no es necesario en Python.
+*  C permite la asingación de líneas, mientras que en Python da errores.
+*  La sintaxis de Python es más fácil de entender que la de C.
 
 
