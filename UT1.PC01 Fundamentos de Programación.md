@@ -52,7 +52,7 @@ Antes que nada, voy a mostrar las características de los lenguajes de programac
 * Multithreaded
 * Tipado dinámico
 
-### Comparación Entre Lenguajes 
+### Respuesta ejercicio
 
 Los 3 ejercicios que voy a escoger, van a ser: Ejercicio1.2.py, Ejercicio2.2.py y Ejercicio2.3.py.
 
@@ -77,9 +77,9 @@ En esta actividad vamos a realizar una comparación entre Python y C, es por ell
 1. ¿Qué diferencias habría en el desarrollo del programa?
 2. ¿Qué diferencias existen entre los dos lenguajes?
 3. ¿Para qué tipo de programa puede servir cada lenguaje?
-4. ¿Cómo sería el proceso de lenguaje del código fuente de cada programa?
+4. ¿Cómo sería el proceso de lectura del código fuente de cada programa?
 
-### Respuestas Preguntas
+### Respuestas ejercicio
 
 1.
 2. Las diferencias clave entre los lenguajes de programación Python y C, son las siguientes:
@@ -92,5 +92,11 @@ En esta actividad vamos a realizar una comparación entre Python y C, es por ell
 *  En C, es obligatorio declarar tipos de variables, pero esto no es necesario en Python.
 *  C permite la asingación de líneas, mientras que en Python da errores.
 *  La sintaxis de Python es más fácil de entender que la de C.
+3. Con C se podría desarrollar, por ejemplo, sistemas operativos. Y con Python, se pueden desarrollar aplicaciones de líneas de comandos (Scripts).
+4.
 
+## Ejercicio 3
 
+Teniendo todos los ejercicios realizados y entregados. Sobre el código fuente creado en la relación de ejercicios 0 de la unidad, realiza en un documento los comentarios sobre todos los ejercicios indicando que elementos del código fuente has utilizado y qué función tienen.
+
+## Respuesta ejercicio
