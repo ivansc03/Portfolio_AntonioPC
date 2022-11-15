@@ -20,6 +20,7 @@ Antes que nada, voy a mostrar las características de los lenguajes de programac
 
 ### Características de Python
 
+* Fácil de aprender
 * Lenguaje interpretado
 * Tipado dinámico
 * Fuertemente tipado
@@ -28,5 +29,28 @@ Antes que nada, voy a mostrar las características de los lenguajes de programac
 * Indentado
 
 ### Características de PHP
+
+* Fácil de aprender
+* Orientado al desarrollo de aplicaciones web
+* Conectividad con casi todos los motores de BDD
+* Confiable y seguro
+* Mucha documentación
+* Gran ampliación de módulos
+* Orientado a objetos
+* Posee manejo de excepciones
+* No necesita definir tipos de variables
+
+### Características de Java
+
+* Fácil de aprender
+* Orientado a objetos
+* Distribuido
+* Robusto
+* Arquitectura neutral
+* Seguro
+* Portable
+* Interpretado
+* Multithreaded
+* Dinámico
 
 
