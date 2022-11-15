@@ -74,12 +74,14 @@ Por último, lo que podría destacar del tercero y de los otros dos anteriores, 
 
 En esta actividad vamos a realizar una comparación entre Python y C, es por ello que debes elegir tres de los ejercicios realizados en clase y contestar a las siguientes preguntas.
 
-* ¿Qué diferencias habría en el desarrollo del programa?
-* ¿Qué diferencias existen entre los dos lenguajes?
-* ¿Para qué tipo de programa puede servir cada lenguaje?
-* ¿Cómo sería el proceso de lenguaje del código fuente de cada programa?
+1. ¿Qué diferencias habría en el desarrollo del programa?
+2. ¿Qué diferencias existen entre los dos lenguajes?
+3. ¿Para qué tipo de programa puede servir cada lenguaje?
+4. ¿Cómo sería el proceso de lenguaje del código fuente de cada programa?
 
 ### Respuestas Preguntas
 
-- 
+1.
+2. Las diferencias clave entre los lenguajes de programación Python y C, son las siguientes:
+
 
