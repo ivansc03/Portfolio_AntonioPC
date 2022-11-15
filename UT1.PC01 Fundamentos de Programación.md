@@ -27,6 +27,7 @@ Antes que nada, voy a mostrar las características de los lenguajes de programac
 * Multiplataforma
 * Orientado a objetos
 * Indentado
+* Seguro
 
 ### Características de PHP
 
@@ -49,8 +50,12 @@ Antes que nada, voy a mostrar las características de los lenguajes de programac
 * Arquitectura neutral
 * Seguro
 * Portable
-* Interpretado
+* Lenguaje Interpretado
 * Multithreaded
-* Dinámico
+* Tipado dinámico
+
+### Los 3 ejercicios que voy a escoger, van a ser: Ejercicio1.2.py, Ejercicio2.2.py y Ejercicio2.3.py.
+
+
 
 
