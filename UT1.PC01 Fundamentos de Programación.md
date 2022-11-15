@@ -9,8 +9,6 @@ status: Published
 En primer lugar vamos a comprobar las características principales de los lenguajes de programación a través de los ejercicios prácticos que habéis realizado.
 Los ejercicios serán los siguientes:
 
-### Lista 1
-
 * Debéis elegir 1 ejercicio de UT1.PC01 Introducción a la programación - Parte 1
 * Debéis elegir 2 ejercicios de UT1.PC01 Introducción a la programación - Parte 2
 
@@ -70,5 +68,5 @@ Del segundo ejercicio, lo que se podría destacar, sería la declaración de fun
 
 Por último, lo que podría destacar del tercero y de los otros dos anteriores, sería el tipo de indentación que se utiliza en los 3 lenguajes de programación. En Python, se utilizan los dos puntos ":". En PHP, se utiliza el punto y coma ";" y en Java, se utilizan 4 espacios.
 
-
+## Ejercicio 2
 
