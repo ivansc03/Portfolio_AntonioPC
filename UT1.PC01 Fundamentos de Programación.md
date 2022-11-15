@@ -12,6 +12,8 @@ Los ejercicios serán los siguientes:
 * Debéis elegir 1 ejercicio de UT1.PC01 Introducción a la programación - Parte 1
 * Debéis elegir 2 ejercicios de UT1.PC01 Introducción a la programación - Parte 2
 
+Debes comparar los tres ejercicios con otros lenguajes de programación, debéis explicar las características principales de cada uno, y compararlo con al menos 2 lenguajes de programación diferentes al usado en la actividad.
+
 Antes que nada, voy a mostrar las características de los lenguajes de programación que vamos a comparar más tarde a través de los ejercicios que he realizado:
 
 ### Características de Python
@@ -69,4 +71,15 @@ Del segundo ejercicio, lo que se podría destacar, sería la declaración de fun
 Por último, lo que podría destacar del tercero y de los otros dos anteriores, sería el tipo de indentación que se utiliza en los 3 lenguajes de programación. En Python, se utilizan los dos puntos ":". En PHP, se utiliza el punto y coma ";" y en Java, se utilizan 4 espacios.
 
 ## Ejercicio 2
+
+En esta actividad vamos a realizar una comparación entre Python y C, es por ello que debes elegir tres de los ejercicios realizados en clase y contestar a las siguientes preguntas.
+
+* ¿Qué diferencias habría en el desarrollo del programa?
+* ¿Qué diferencias existen entre los dos lenguajes?
+* ¿Para qué tipo de programa puede servir cada lenguaje?
+* ¿Cómo sería el proceso de lenguaje del código fuente de cada programa?
+
+### Respuestas Preguntas
+
+- 
 
