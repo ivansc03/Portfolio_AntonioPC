@@ -14,8 +14,6 @@ Los ejercicios serán los siguientes:
 * Debéis elegir 1 ejercicio de UT1.PC01 Introducción a la programación - Parte 1
 * Debéis elegir 2 ejercicios de UT1.PC01 Introducción a la programación - Parte 2
 
-## EJ1
-
 Antes que nada, voy a mostrar las características de los lenguajes de programación que vamos a comparar más tarde a través de los ejercicios que he realizado:
 
 ### Características de Python
@@ -54,7 +52,9 @@ Antes que nada, voy a mostrar las características de los lenguajes de programac
 * Multithreaded
 * Tipado dinámico
 
-### Comparación Ejercicios Los 3 ejercicios que voy a escoger, van a ser: Ejercicio1.2.py, Ejercicio2.2.py y Ejercicio2.3.py.
+### Comparación Ejercicios 
+
+Los 3 ejercicios que voy a escoger, van a ser: Ejercicio1.2.py, Ejercicio2.2.py y Ejercicio2.3.py.
 
 
 
