@@ -81,7 +81,10 @@ En esta actividad vamos a realizar una comparación entre Python y C, es por ell
 
 ### Respuestas ejercicio
 
-1.
+1. Por falta de tiempo, voy a realizar la comparación con un solo ejercicio. En mi caso lo voy a hacer con el ejercicio "Ejercicio1.2.py".
+* Para dicho ejercicio, tendríamos que tener en cuenta varias cosillas a la hora de querer replicarlo en C. Por ejemplo, a la hora
+  de querer declarar las variables "num1" y "num2" en C, tendría que indicar previamente el tipo de variable que es y luego poner la variable.
+  A la hora de recoger los datos introducidos por teclado, los tendríamos que recoger con la función "printf" y combinarla con la función "scanf", que lo que   hará será leer los datos que hayamos introducido y los lanzará al "If". La estructura del "If" en C, es un tanto similiar al de Python. Lo que cambia, es     el uso de paréntesis y los cierres, que en C se usa el ";" para cerrar los bloques de código.
 2. Las diferencias clave entre los lenguajes de programación Python y C, son las siguientes:
 *  C es un lenguaje de programación estructural, mientras que Python es un lenguaje de programación orientado a objetos.
 *  Python es un lenguaje de programación de propósito general, mientras que C se usa principalmente para aplicaciones relacionadas con hardware y código de      bajo nivel.
@@ -92,8 +95,8 @@ En esta actividad vamos a realizar una comparación entre Python y C, es por ell
 *  En C, es obligatorio declarar tipos de variables, pero esto no es necesario en Python.
 *  C permite la asingación de líneas, mientras que en Python da errores.
 *  La sintaxis de Python es más fácil de entender que la de C.
-3. Con C se podría desarrollar, por ejemplo, sistemas operativos. Y con Python, se pueden desarrollar aplicaciones de líneas de comandos (Scripts).
-4.
+3. Con C se pueden desarrollar, por ejemplo, sistemas operativos. Y con Python, se pueden desarrollar aplicaciones de líneas de comandos (Scripts).
+4. En Python se leería de forma lineal, ya que es un lenguaje interpretado, mientras que C lo haría por bloques, ya que es un lenguaje compilado.
 
 ## Ejercicio 3
 
