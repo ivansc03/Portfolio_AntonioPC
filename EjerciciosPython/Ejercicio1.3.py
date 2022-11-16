@@ -1,4 +1,4 @@
-# Ejercicio 1.3 Python (PREGUNTAR A ALEJANDRO)
+# Ejercicio 1.3 Python
 
 contador=1
 

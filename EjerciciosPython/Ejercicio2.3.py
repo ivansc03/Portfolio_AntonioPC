@@ -1,17 +1,13 @@
 #Ejercicio 2.3 Python
 
-# No me muestra cuántos caracteres tiene la palabra
-
 print("Introduce una palabra \n")
 
 palabra = input()
 
 def caracteres(palabra):
     contador = 0
-    while True:
-        try:
-            palabra[contador]
-            contador+=1
-        except:
-            print ("Error \n")
-    return contador
+    for i in palabra:
+        contador+=1
+    print(contador)
+
+caracteres(palabra)
