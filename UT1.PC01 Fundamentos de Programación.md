@@ -103,3 +103,19 @@ En esta actividad vamos a realizar una comparación entre Python y C, es por ell
 Teniendo todos los ejercicios realizados y entregados. Sobre el código fuente creado en la relación de ejercicios 0 de la unidad, realiza en un documento los comentarios sobre todos los ejercicios indicando que elementos del código fuente has utilizado y qué función tienen.
 
 ## Respuesta ejercicio
+
+Por falta de tiempo, no voy a poder comentar todos los elementos que quisiera, ya que no tengo hechos todos los ejercicios. Pero si que voy a comentar aquellos elementos de los ejercicios que si he hecho.
+
+* "print": Sirve para imprimir una serie de caracteres alfanuméricos por pantalla.
+* "(NombreVariable) = int(input())": Estos elementos los he utilizado para recoger una variable numérica introducida previamente por teclado. Si el "input()" no llevase previamente un "int()", lo que estaría recogiendo sería una cadena de texto.
+* "if" y "else": He usado estos elementos para realizar condicionales.
+* "elif": Lo he usado para unir varias condiciones en un mismo ejercicio.
+* "contador": Lo he utilizado para almacenar un valor e ir incrementándolo a medida que se vaya cumpliendo una condición.
+* "while": Lo he utilizado para iterar una condición hasta que se cumpla la puesta en él mismo.
+* "def (NombreFunción)": Lo he utilizado para declarar una función.
+* "(NombreFunción)(Variable1,Variable2)": Lo he utilizado para llamar a la función una vez terminada la actividad.
+* "sum=(Variable1+Variable2+Variable3)": Lo he utilizado para sumar tres variables
+* "mul=(Variable1*Variable2*Variable3)": Lo he utilizado para multiplicar tres variables
+* "return": Lo he usado para retornar un valor.
+* "len(Variable)": Lo he usado para calcular la longitud de caracteres que tiene la variable metida entre paréntesis.
+* "(Variable)[1:]": Lo he usado para coger el primer valor por la izquierda de la variable introducida previamente por teclado.
