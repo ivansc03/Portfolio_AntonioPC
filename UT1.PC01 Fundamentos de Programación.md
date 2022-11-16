@@ -107,6 +107,7 @@ Teniendo todos los ejercicios realizados y entregados. Sobre el código fuente c
 Por falta de tiempo, no voy a poder comentar todos los elementos que quisiera, ya que no tengo hechos todos los ejercicios. Pero si que voy a comentar aquellos elementos de los ejercicios que si he hecho.
 
 * "print": Sirve para imprimir una serie de caracteres alfanuméricos por pantalla.
+* ":": Lo he usado para indentar la estructura del código.
 * "(NombreVariable) = int(input())": Estos elementos los he utilizado para recoger una variable numérica introducida previamente por teclado. Si el "input()" no llevase previamente un "int()", lo que estaría recogiendo sería una cadena de texto.
 * "if" y "else": He usado estos elementos para realizar condicionales.
 * "elif": Lo he usado para unir varias condiciones en un mismo ejercicio.
