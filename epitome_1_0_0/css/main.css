@@ -1924,7 +1924,7 @@ input::-moz-focus-inner {
 }
 
 .intro-pic {
-  background-color: #02182c;
+  background-color: #cf176785;
   background-repeat: no-repeat;
   background-position: top center;
   background-image: url(../images/hero-pic.jpg);
@@ -3292,7 +3292,7 @@ input::-moz-focus-inner {
 
 .contact-email {
   font-family: "Roboto", sans-serif;
-  font-size: 11.2rem;
+  font-size: 7rem;
   font-weight: 400;
   line-height: 1;
   margin: 5.6rem 0 8rem;
@@ -3362,7 +3362,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 7rem;
   }
 
   .contact-infos {
@@ -3377,7 +3377,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3388,7 +3388,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3411,14 +3411,14 @@ input::-moz-focus-inner {
   }
 
   .contact-infos {
-    font-size: 3.6rem;
+    font-size: 1.5rem;
   }
 
 }
 
 @media screen and (max-width:600px) {
   .contact-social ul li {
-    margin-right: 1.2rem;
+    margin-right: 0.5rem;
   }
 
   .contact-social ul li::before {
@@ -3429,7 +3429,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:400px) {
   .contact-infos {
-    font-size: 3rem;
+    font-size: 1rem;
   }
 
 }
