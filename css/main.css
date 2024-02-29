@@ -1935,6 +1935,8 @@ input::-moz-focus-inner {
   right: 0;
   bottom: 0;
   left: 50%;
+  width: 50%;
+  height: 50%;
 }
 
 .intro-pic::before {
