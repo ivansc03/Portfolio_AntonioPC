@@ -1931,7 +1931,7 @@ input::-moz-focus-inner {
   background-image: url(../images/hero-pic.png);
   background-size: 300px 300px;
   position: absolute;
-  top: 50%;
+  top: 35%;
   right: 0;
   bottom: 0;
   left: 50%;
